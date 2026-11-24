@@ -1,0 +1,19 @@
+{
+  "name": "AUTOGAUGE",
+  "domain": "autogauge.vaitrix.tw",
+  "accent": "#D71619",
+  "logo": "brand/logo.png",
+  "favicon": "brand/favicon.png",
+  "contact": {
+    "email": "info@vaitrix.com"
+  },
+  "products": {
+    "AUTOGAUGE4IN1": {
+      "noun": {
+        "zh": "錶",
+        "en": "gauge"
+      },
+      "image": "builtin:round-gauge"
+    }
+  }
+}
