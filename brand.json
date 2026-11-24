@@ -13,7 +13,8 @@
         "zh": "錶",
         "en": "gauge"
       },
-      "image": "builtin:round-gauge"
+      "image": "builtin:round-gauge",
+      "switchable": true
     }
   }
 }
